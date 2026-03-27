@@ -1,0 +1,8 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+5465,PPARA,['Berberine']
+2033,EP300,['Palmatine']
+590,BCHE,"['Palmatine', 'Berberine', 'Oxyberberine']"
+43,ACHE,"['Oxyberberine', 'Berberine', 'Palmatine']"
+1545,CYP1B1,['Berberine']
+5467,PPARD,['Berberine']
+5770,PTPN1,"['Palmatine', 'Berberine']"

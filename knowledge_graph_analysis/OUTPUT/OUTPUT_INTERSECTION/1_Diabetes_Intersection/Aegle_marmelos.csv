@@ -1,0 +1,66 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4000,LMNA,"['Skimmianine', 'Coumarins']"
+4713,NDUFB7,"['Marmin', 'Aurapten']"
+4726,NDUFS6,"['Aurapten', 'Marmin']"
+150,ADRA2A,['Coumarins']
+4697,COXFA4,"['Aurapten', 'Marmin']"
+4536,MT-ND2,"['Aurapten', 'Marmin']"
+4701,NDUFA7,"['Marmin', 'Aurapten']"
+55967,NDUFA12,"['Marmin', 'Aurapten']"
+4710,NDUFB4,"['Aurapten', 'Marmin']"
+4723,NDUFV1,"['Marmin', 'Aurapten']"
+4712,NDUFB6,"['Marmin', 'Aurapten']"
+56901,COXFA4L2,"['Marmin', 'Aurapten']"
+4160,MC4R,['Coumarins']
+5468,PPARG,['Aurapten']
+29078,NDUFAF4,"['Aurapten', 'Marmin']"
+1803,DPP4,['Beta-sitosterol']
+4722,NDUFS3,"['Aurapten', 'Marmin']"
+4717,NDUFC1,"['Marmin', 'Aurapten']"
+213,ALB,['Coumarins']
+4728,NDUFS8,"['Aurapten', 'Marmin']"
+4705,NDUFA10,"['Aurapten', 'Marmin']"
+4541,MT-ND6,"['Aurapten', 'Marmin']"
+4540,MT-ND5,"['Aurapten', 'Marmin']"
+2548,GAA,"['Umbelliferone', 'Imperatorin']"
+4715,NDUFB9,"['Aurapten', 'Marmin']"
+4539,MT-ND4L,"['Aurapten', 'Marmin']"
+4535,MT-ND1,"['Aurapten', 'Marmin']"
+4729,NDUFV2,"['Aurapten', 'Marmin']"
+4716,NDUFB10,"['Aurapten', 'Marmin']"
+25915,NDUFAF3,"['Marmin', 'Aurapten']"
+4694,NDUFA1,"['Aurapten', 'Marmin']"
+4719,NDUFS1,"['Aurapten', 'Marmin']"
+4709,NDUFB3,"['Marmin', 'Aurapten']"
+374291,NDUFS7,"['Marmin', 'Aurapten']"
+5563,PRKAA2,['Beta-sitosterol']
+51079,NDUFA13,"['Marmin', 'Aurapten']"
+155,ADRB3,['Coumarins']
+51103,NDUFAF1,"['Marmin', 'Aurapten']"
+4698,NDUFA5,"['Aurapten', 'Marmin']"
+4718,NDUFC2,"['Marmin', 'Aurapten']"
+1544,CYP1A2,"['Skimmianine', 'Coumarins']"
+4731,NDUFV3,"['Marmin', 'Aurapten']"
+4538,MT-ND4,"['Marmin', 'Aurapten']"
+5770,PTPN1,['Lupeol']
+3156,HMGCR,['Coumarins']
+4695,NDUFA2,"['Marmin', 'Aurapten']"
+4700,NDUFA6,"['Marmin', 'Aurapten']"
+4696,NDUFA3,"['Aurapten', 'Marmin']"
+4702,NDUFA8,"['Marmin', 'Aurapten']"
+4724,NDUFS4,"['Aurapten', 'Marmin']"
+2740,GLP1R,"['Imperatorin', 'Aurapten']"
+4720,NDUFS2,"['Aurapten', 'Marmin']"
+91942,NDUFAF2,"['Aurapten', 'Marmin']"
+4537,MT-ND3,"['Aurapten', 'Marmin']"
+54539,NDUFB11,"['Marmin', 'Aurapten']"
+4704,NDUFA9,"['Aurapten', 'Marmin']"
+126328,NDUFA11,"['Aurapten', 'Marmin']"
+4711,NDUFB5,"['Marmin', 'Aurapten']"
+4708,NDUFB2,"['Aurapten', 'Marmin']"
+4725,NDUFS5,"['Aurapten', 'Marmin']"
+4714,NDUFB8,"['Marmin', 'Aurapten']"
+1909,EDNRA,['Coumarins']
+1956,EGFR,['Coumarins']
+4707,NDUFB1,"['Marmin', 'Aurapten']"
+4706,NDUFAB1,"['Aurapten', 'Marmin']"

@@ -1,0 +1,38 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4886,NPY1R,"['Mannitol', 'Catechol']"
+6580,SLC22A1,['Mannitol']
+4160,MC4R,"['Catechol', 'Mannitol']"
+5290,PIK3CA,['Catechol']
+3620,IDO1,['Catechol']
+3356,HTR2A,"['Catechol', 'Mannitol']"
+834,CASP1,"['Mannitol', 'Catechol']"
+4864,NPC1,['Catechol']
+4159,MC3R,"['Mannitol', 'Catechol']"
+43,ACHE,"['Mannitol', 'Catechol', 'Ellagic acid']"
+3643,INSR,['Ellagic acid']
+153,ADRB1,"['Mannitol', 'Catechol']"
+6530,SLC6A2,"['Catechol', 'Mannitol']"
+54205,CYCS,['Baicalein']
+7442,TRPV1,['Oleanolic acid']
+5468,PPARG,['Catechol']
+2147,F2,"['Beta-sitosterol', 'Mannitol']"
+2099,ESR1,"['Catechol', 'Mannitol', 'Baicalein']"
+155,ADRB3,"['Catechol', 'Mannitol']"
+6774,STAT3,['Oleanolic acid']
+1571,CYP2E1,"['Mannitol', 'Baicalein', 'Catechol']"
+10411,RAPGEF3,"['Ellagic acid', 'Baicalein']"
+4318,MMP9,"['Mannitol', 'Catechol']"
+3358,HTR2C,"['Catechol', 'Mannitol']"
+1545,CYP1B1,['Baicalein']
+761,CA3,"['Ellagic acid', 'Catechol']"
+2908,NR3C1,"['Mannitol', 'Baicalein', 'Catechol']"
+3309,HSPA5,"['Ellagic acid', 'Catechol']"
+6531,SLC6A3,"['Catechol', 'Mannitol']"
+1066,CES1,['Oleanolic acid']
+5467,PPARD,['Catechol']
+5743,PTGS2,"['Mannitol', 'Arjunolic acid', 'Catechol', 'Oleanolic acid', '(+)-Gallocatechol']"
+154,ADRB2,"['Mannitol', 'Catechol']"
+207,AKT1,"['Baicalein', 'Ellagic acid']"
+1268,CNR1,"['Mannitol', 'Catechol', 'Epigallocatechol']"
+1636,ACE,['Ellagic acid']
+5770,PTPN1,"['Oleanolic acid', 'Ellagic acid']"

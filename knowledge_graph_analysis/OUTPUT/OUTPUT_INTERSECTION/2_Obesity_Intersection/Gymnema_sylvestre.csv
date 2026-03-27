@@ -1,0 +1,35 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+51181,DCXR,['Butyric acid']
+4886,NPY1R,"['1,8-Cineole', 'Eugenol', 'Ferulate']"
+6580,SLC22A1,['Choline']
+4160,MC4R,"['Eugenol', 'Ferulate', '1,8-Cineole']"
+5465,PPARA,"['Palmitic acid', 'Methyl eugenol', 'Myristic acid', 'Octadecanoic acid']"
+196,AHR,['Hydroquinone']
+3356,HTR2A,"['1,8-Cineole', 'Ferulate', 'Eugenol']"
+834,CASP1,"['Ferulate', 'Eugenol', '1,8-Cineole']"
+4864,NPC1,['Hydroquinone']
+4159,MC3R,"['Ferulate', '1,8-Cineole', 'Eugenol']"
+590,BCHE,['Ferulate']
+43,ACHE,"['Choline', 'Eugenol', 'Inositol', 'Ferulate', '1,8-Cineole', 'Octadecanoic acid']"
+3383,ICAM1,['Indole']
+153,ADRB1,"['Eugenol', 'Ferulate', '1,8-Cineole']"
+6530,SLC6A2,"['Eugenol', 'Ferulate', '1,8-Cineole', 'Octadecanoic acid', 'Choline', 'Inositol']"
+5468,PPARG,"['Methyl eugenol', 'Octadecanoic acid', 'Palmitic acid', 'Myristic acid']"
+2147,F2,"['Choline', 'Octadecanoic acid', 'Inositol']"
+2740,GLP1R,['Myristic acid']
+2099,ESR1,"['Eugenol', 'Palmitic acid', 'Inositol', 'Ferulate', 'Choline', 'Hydroquinone', '1,8-Cineole', 'Octadecanoic acid']"
+155,ADRB3,"['1,8-Cineole', 'Ferulate', 'Eugenol']"
+1571,CYP2E1,"['Eugenol', '1,8-Cineole', 'Ferulate']"
+6582,SLC22A2,['Choline']
+10411,RAPGEF3,['Myristic acid']
+4318,MMP9,"['1,8-Cineole', 'Eugenol', 'Ferulate']"
+3358,HTR2C,"['Ferulate', '1,8-Cineole', 'Eugenol']"
+761,CA3,"['Hydroquinone', 'Ferulate']"
+2908,NR3C1,"['Ferulate', 'Eugenol', 'Octadecanoic acid', 'Octanol', 'Hydroquinone', '1,8-Cineole', 'Palmitic acid', 'Methyl eugenol']"
+6531,SLC6A3,"['Choline', 'Inositol', 'Eugenol', 'Ferulate', '1,8-Cineole', 'Octadecanoic acid']"
+1066,CES1,['Lupeol']
+5467,PPARD,"['Hydroquinone', 'p-Guaiacol', 'Palmitic acid', 'Pentadecanoic acid', 'Tetradecanol', 'Myristic acid', 'Octadecanoic acid', 'Methyl eugenol', '1,8-Cineole']"
+5743,PTGS2,"['Ferulate', 'Eugenol', 'Beta amyrin', '1,8-Cineole', 'Hydroquinone']"
+154,ADRB2,"['Eugenol', '1,8-Cineole', 'Ferulate']"
+1268,CNR1,"['Methyl palmitate', 'Eugenol', 'Ferulate', '1,8-Cineole']"
+5770,PTPN1,"['Beta amyrin', 'Octadecanoic acid', 'Palmitic acid', 'Lupeol', 'Phytol']"

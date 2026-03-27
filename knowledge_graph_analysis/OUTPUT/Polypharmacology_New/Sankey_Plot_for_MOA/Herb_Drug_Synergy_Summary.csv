@@ -1,0 +1,134 @@
+SHD,FDA approved drug,Indication_Type,Phytochemical,Target,Disease
+Aegle marmelos,Alogliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Aegle marmelos,Amphetamine,Obesity,Coumarins,"SLC6A3, SLC6A2",Obesity
+Aegle marmelos,Benzphetamine,Obesity,Coumarins,SLC6A2,Obesity
+Aegle marmelos,Diethylpropion,Obesity,Coumarins,"SLC6A3, SLC6A2",Obesity
+Aegle marmelos,Linagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Aegle marmelos,Metamfetamine,Obesity,Coumarins,SLC6A3,Obesity
+Aegle marmelos,Metformin,Diabetes,"Aurapten, Marmin","NDUFV2, MT-ND1, NDUFA11, NDUFB3, NDUFA13, NDUFS2, NDUFS1, NDUFA8, NDUFB6, NDUFB9, NDUFS7, NDUFV3, MT-ND4L, MT-ND5, NDUFB8, COXFA4, MT-ND4, NDUFB1, MT-ND3, NDUFB2, NDUFC2, COXFA4L2, NDUFA5, NDUFAF1, NDUFC1, NDUFS3, NDUFA12, NDUFB5, NDUFA1, NDUFAB1, NDUFB4, NDUFA10, NDUFV1, NDUFS6, MT-ND6, NDUFAF4, NDUFA2, NDUFS4, MT-ND2, NDUFAF2, NDUFA6, NDUFA9, NDUFB10, NDUFAF3, NDUFS8, NDUFA7, NDUFA3, NDUFB7, NDUFB11, NDUFS5",Type 2 Diabetes
+Aegle marmelos,Miglitol,Diabetes,"Imperatorin, Umbelliferone",GAA,Type 2 Diabetes
+Aegle marmelos,Phendimetrazine,Obesity,Coumarins,"SLC6A3, SLC6A2",Obesity
+Aegle marmelos,Phentermine,Obesity,Coumarins,SLC6A2,Obesity
+Aegle marmelos,Pioglitazone,Diabetes,Aurapten,PPARG,Type 2 Diabetes
+Aegle marmelos,Pramlintide,Diabetes,"Aurapten, Imperatorin",GLP1R,Type 2 Diabetes
+Aegle marmelos,Saxagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Aegle marmelos,Semaglutide,Diabetes,"Aurapten, Imperatorin",GLP1R,Type 2 Diabetes
+Aegle marmelos,Setmelanotide,Obesity,Coumarins,MC4R,Obesity
+Aegle marmelos,Sitagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Aegle marmelos,Tirzepatide,Diabetes,"Aurapten, Imperatorin",GLP1R,Type 2 Diabetes
+Aegle marmelos,Vildagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Berberis aristata,Miglitol,Diabetes,Jatrorrhizine,GAA,Type 2 Diabetes
+Butea monosperma,Alogliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Butea monosperma,Amphetamine,Obesity,"Oleic acid, Linolenic acid, Octadecanoic acid","SLC6A3, SLC6A2",Obesity
+Butea monosperma,Benzphetamine,Obesity,"Oleic acid, Linolenic acid, Octadecanoic acid",SLC6A2,Obesity
+Butea monosperma,Diethylpropion,Obesity,"Oleic acid, Linolenic acid, Octadecanoic acid","SLC6A3, SLC6A2",Obesity
+Butea monosperma,Linagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Butea monosperma,Metamfetamine,Obesity,"Oleic acid, Linolenic acid, Octadecanoic acid",SLC6A3,Obesity
+Butea monosperma,Phendimetrazine,Obesity,"Oleic acid, Linolenic acid, Octadecanoic acid","SLC6A3, SLC6A2",Obesity
+Butea monosperma,Phentermine,Obesity,"Oleic acid, Linolenic acid, Octadecanoic acid",SLC6A2,Obesity
+Butea monosperma,Pioglitazone,Diabetes,"Arachidic acid, Lauric acid, Myristic acid, Octadecanoic acid, Palmitic acid, Behenic acid, Linoleic acid, Linolenic acid, Oleic acid, Capric acid",PPARG,Type 2 Diabetes
+Butea monosperma,Pramlintide,Diabetes,"Lauric acid, Myristic acid",GLP1R,Type 2 Diabetes
+Butea monosperma,Saxagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Butea monosperma,Semaglutide,Diabetes,"Lauric acid, Myristic acid",GLP1R,Type 2 Diabetes
+Butea monosperma,Sitagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Butea monosperma,Tirzepatide,Diabetes,"Lauric acid, Myristic acid",GLP1R,Type 2 Diabetes
+Butea monosperma,Vildagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Commiphora wightii,Alogliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Commiphora wightii,Amphetamine,Obesity,Ferulate,"SLC6A3, SLC6A2",Obesity
+Commiphora wightii,Benzphetamine,Obesity,Ferulate,SLC6A2,Obesity
+Commiphora wightii,Diethylpropion,Obesity,Ferulate,"SLC6A3, SLC6A2",Obesity
+Commiphora wightii,Linagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Commiphora wightii,Metamfetamine,Obesity,Ferulate,SLC6A3,Obesity
+Commiphora wightii,Phendimetrazine,Obesity,Ferulate,"SLC6A3, SLC6A2",Obesity
+Commiphora wightii,Phentermine,Obesity,Ferulate,SLC6A2,Obesity
+Commiphora wightii,Pioglitazone,Diabetes,"Pluviatilol, E-guggulsterone",PPARG,Type 2 Diabetes
+Commiphora wightii,Pramlintide,Diabetes,Sesamin,GLP1R,Type 2 Diabetes
+Commiphora wightii,Saxagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Commiphora wightii,Semaglutide,Diabetes,Sesamin,GLP1R,Type 2 Diabetes
+Commiphora wightii,Setmelanotide,Obesity,Ferulate,MC4R,Obesity
+Commiphora wightii,Sitagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Commiphora wightii,Tirzepatide,Diabetes,Sesamin,GLP1R,Type 2 Diabetes
+Commiphora wightii,Vildagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Diospyros malabarica,Alogliptin,Diabetes,"Betulinic acid, Beta-sitosterol, Gallic acid",DPP4,Type 2 Diabetes
+Diospyros malabarica,Linagliptin,Diabetes,"Betulinic acid, Beta-sitosterol, Gallic acid",DPP4,Type 2 Diabetes
+Diospyros malabarica,Pramlintide,Diabetes,Betulinic acid,GLP1R,Type 2 Diabetes
+Diospyros malabarica,Saxagliptin,Diabetes,"Betulinic acid, Beta-sitosterol, Gallic acid",DPP4,Type 2 Diabetes
+Diospyros malabarica,Semaglutide,Diabetes,Betulinic acid,GLP1R,Type 2 Diabetes
+Diospyros malabarica,Sitagliptin,Diabetes,"Betulinic acid, Beta-sitosterol, Gallic acid",DPP4,Type 2 Diabetes
+Diospyros malabarica,Tirzepatide,Diabetes,Betulinic acid,GLP1R,Type 2 Diabetes
+Diospyros malabarica,Vildagliptin,Diabetes,"Betulinic acid, Beta-sitosterol, Gallic acid",DPP4,Type 2 Diabetes
+Enicostema axillare,Alogliptin,Diabetes,Apigenin,DPP4,Type 2 Diabetes
+Enicostema axillare,Amphetamine,Obesity,"Oleic acid, Octadecanoic acid","SLC6A3, SLC6A2",Obesity
+Enicostema axillare,Benzphetamine,Obesity,"Oleic acid, Octadecanoic acid",SLC6A2,Obesity
+Enicostema axillare,Diethylpropion,Obesity,"Oleic acid, Octadecanoic acid","SLC6A3, SLC6A2",Obesity
+Enicostema axillare,Linagliptin,Diabetes,Apigenin,DPP4,Type 2 Diabetes
+Enicostema axillare,Metamfetamine,Obesity,"Oleic acid, Octadecanoic acid",SLC6A3,Obesity
+Enicostema axillare,Metformin,Diabetes,Apigenin,INSR,Type 2 Diabetes
+Enicostema axillare,Miglitol,Diabetes,Isovitexin,GAA,Type 2 Diabetes
+Enicostema axillare,Orlistat,Obesity,Apigenin,PNLIP,Obesity
+Enicostema axillare,Phendimetrazine,Obesity,"Oleic acid, Octadecanoic acid","SLC6A3, SLC6A2",Obesity
+Enicostema axillare,Phentermine,Obesity,"Oleic acid, Octadecanoic acid",SLC6A2,Obesity
+Enicostema axillare,Pioglitazone,Diabetes,"Oleic acid, Myristic acid, Apigenin, Octadecanoic acid",PPARG,Type 2 Diabetes
+Enicostema axillare,Pramlintide,Diabetes,Myristic acid,GLP1R,Type 2 Diabetes
+Enicostema axillare,Saxagliptin,Diabetes,Apigenin,DPP4,Type 2 Diabetes
+Enicostema axillare,Semaglutide,Diabetes,Myristic acid,GLP1R,Type 2 Diabetes
+Enicostema axillare,Sitagliptin,Diabetes,Apigenin,DPP4,Type 2 Diabetes
+Enicostema axillare,Tirzepatide,Diabetes,Myristic acid,GLP1R,Type 2 Diabetes
+Enicostema axillare,Vildagliptin,Diabetes,Apigenin,DPP4,Type 2 Diabetes
+Gymnema sylvestre,Amphetamine,Obesity,"Eugenol, Octadecanoic acid, 1,8-Cineole, Ferulate, Inositol, Choline","SLC6A3, SLC6A2",Obesity
+Gymnema sylvestre,Benzphetamine,Obesity,"Eugenol, Octadecanoic acid, 1,8-Cineole, Ferulate, Inositol, Choline",SLC6A2,Obesity
+Gymnema sylvestre,Diethylpropion,Obesity,"Eugenol, Octadecanoic acid, 1,8-Cineole, Choline, Ferulate, Inositol","SLC6A3, SLC6A2",Obesity
+Gymnema sylvestre,Metamfetamine,Obesity,"Eugenol, Octadecanoic acid, 1,8-Cineole, Choline, Ferulate, Inositol",SLC6A3,Obesity
+Gymnema sylvestre,Phendimetrazine,Obesity,"Eugenol, Octadecanoic acid, 1,8-Cineole, Choline, Ferulate, Inositol","SLC6A3, SLC6A2",Obesity
+Gymnema sylvestre,Phentermine,Obesity,"Eugenol, Octadecanoic acid, 1,8-Cineole, Ferulate, Inositol, Choline",SLC6A2,Obesity
+Gymnema sylvestre,Pioglitazone,Diabetes,"Myristic acid, Palmitic acid, Octadecanoic acid, Methyl eugenol",PPARG,Type 2 Diabetes
+Gymnema sylvestre,Pramlintide,Diabetes,Myristic acid,GLP1R,Type 2 Diabetes
+Gymnema sylvestre,Semaglutide,Diabetes,Myristic acid,GLP1R,Type 2 Diabetes
+Gymnema sylvestre,Setmelanotide,Obesity,"Eugenol, Ferulate, 1,8-Cineole",MC4R,Obesity
+Gymnema sylvestre,Tirzepatide,Diabetes,Myristic acid,GLP1R,Type 2 Diabetes
+Pterocarpus marsupium,Alogliptin,Diabetes,Naringenin,DPP4,Type 2 Diabetes
+Pterocarpus marsupium,Linagliptin,Diabetes,Naringenin,DPP4,Type 2 Diabetes
+Pterocarpus marsupium,Miglitol,Diabetes,"Pterostilbene, (-)-Epicatechin",GAA,Type 2 Diabetes
+Pterocarpus marsupium,Orlistat,Obesity,(-)-Epicatechin,FASN,Obesity
+Pterocarpus marsupium,Pioglitazone,Diabetes,"Isoliquiritigenin, Naringenin, Pseudobaptigenin, 7,4'-dihydroxyflavone",PPARG,Type 2 Diabetes
+Pterocarpus marsupium,Pramlintide,Diabetes,"Isoliquiritigenin, Pterostilbene",GLP1R,Type 2 Diabetes
+Pterocarpus marsupium,Saxagliptin,Diabetes,Naringenin,DPP4,Type 2 Diabetes
+Pterocarpus marsupium,Semaglutide,Diabetes,"Isoliquiritigenin, Pterostilbene",GLP1R,Type 2 Diabetes
+Pterocarpus marsupium,Sitagliptin,Diabetes,Naringenin,DPP4,Type 2 Diabetes
+Pterocarpus marsupium,Tirzepatide,Diabetes,"Isoliquiritigenin, Pterostilbene",GLP1R,Type 2 Diabetes
+Pterocarpus marsupium,Vildagliptin,Diabetes,Naringenin,DPP4,Type 2 Diabetes
+Tecomella undulata,Alogliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Tecomella undulata,Amphetamine,Obesity,Ferulate,"SLC6A3, SLC6A2",Obesity
+Tecomella undulata,Benzphetamine,Obesity,Ferulate,SLC6A2,Obesity
+Tecomella undulata,Diethylpropion,Obesity,Ferulate,"SLC6A3, SLC6A2",Obesity
+Tecomella undulata,Linagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Tecomella undulata,Metamfetamine,Obesity,Ferulate,SLC6A3,Obesity
+Tecomella undulata,Phendimetrazine,Obesity,Ferulate,"SLC6A3, SLC6A2",Obesity
+Tecomella undulata,Phentermine,Obesity,Ferulate,SLC6A2,Obesity
+Tecomella undulata,Saxagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Tecomella undulata,Setmelanotide,Obesity,Ferulate,MC4R,Obesity
+Tecomella undulata,Sitagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Tecomella undulata,Vildagliptin,Diabetes,Beta-sitosterol,DPP4,Type 2 Diabetes
+Tectona grandis,Alogliptin,Diabetes,"Betulinic acid, Beta-sitosterol",DPP4,Type 2 Diabetes
+Tectona grandis,Linagliptin,Diabetes,"Betulinic acid, Beta-sitosterol",DPP4,Type 2 Diabetes
+Tectona grandis,Pramlintide,Diabetes,Betulinic acid,GLP1R,Type 2 Diabetes
+Tectona grandis,Saxagliptin,Diabetes,"Betulinic acid, Beta-sitosterol",DPP4,Type 2 Diabetes
+Tectona grandis,Semaglutide,Diabetes,Betulinic acid,GLP1R,Type 2 Diabetes
+Tectona grandis,Sitagliptin,Diabetes,"Betulinic acid, Beta-sitosterol",DPP4,Type 2 Diabetes
+Tectona grandis,Tirzepatide,Diabetes,Betulinic acid,GLP1R,Type 2 Diabetes
+Tectona grandis,Vildagliptin,Diabetes,"Betulinic acid, Beta-sitosterol",DPP4,Type 2 Diabetes
+Terminalia arjuna,Alogliptin,Diabetes,"Baicalein, Beta-sitosterol",DPP4,Type 2 Diabetes
+Terminalia arjuna,Amphetamine,Obesity,"Catechol, Mannitol","SLC6A3, SLC6A2",Obesity
+Terminalia arjuna,Benzphetamine,Obesity,"Catechol, Mannitol",SLC6A2,Obesity
+Terminalia arjuna,Diethylpropion,Obesity,"Catechol, Mannitol","SLC6A3, SLC6A2",Obesity
+Terminalia arjuna,Linagliptin,Diabetes,"Baicalein, Beta-sitosterol",DPP4,Type 2 Diabetes
+Terminalia arjuna,Metamfetamine,Obesity,"Catechol, Mannitol",SLC6A3,Obesity
+Terminalia arjuna,Metformin,Diabetes,Ellagic acid,INSR,Type 2 Diabetes
+Terminalia arjuna,Miglitol,Diabetes,"Ellagic acid, Baicalein","GAA, MGAM",Type 2 Diabetes
+Terminalia arjuna,Phendimetrazine,Obesity,"Catechol, Mannitol","SLC6A3, SLC6A2",Obesity
+Terminalia arjuna,Phentermine,Obesity,"Catechol, Mannitol",SLC6A2,Obesity
+Terminalia arjuna,Pioglitazone,Diabetes,Catechol,PPARG,Type 2 Diabetes
+Terminalia arjuna,Saxagliptin,Diabetes,"Baicalein, Beta-sitosterol",DPP4,Type 2 Diabetes
+Terminalia arjuna,Setmelanotide,Obesity,"Catechol, Mannitol",MC4R,Obesity
+Terminalia arjuna,Sitagliptin,Diabetes,"Baicalein, Beta-sitosterol",DPP4,Type 2 Diabetes
+Terminalia arjuna,Vildagliptin,Diabetes,"Baicalein, Beta-sitosterol",DPP4,Type 2 Diabetes

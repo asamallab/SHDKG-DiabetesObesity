@@ -1,0 +1,9 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4160,MC4R,"['Eugenol', 'Ferulate', '1,8-Cineole']"
+5465,PPARA,"['Palmitic acid', 'Methyl eugenol', 'Myristic acid', 'Octadecanoic acid']"
+3383,ICAM1,['Indole']
+5468,PPARG,"['Methyl eugenol', 'Octadecanoic acid', 'Palmitic acid', 'Myristic acid']"
+2740,GLP1R,['Myristic acid']
+155,ADRB3,"['1,8-Cineole', 'Ferulate', 'Eugenol']"
+5467,PPARD,"['Hydroquinone', 'p-Guaiacol', 'Palmitic acid', 'Pentadecanoic acid', 'Tetradecanol', 'Myristic acid', 'Octadecanoic acid', 'Methyl eugenol', '1,8-Cineole']"
+5770,PTPN1,"['Beta amyrin', 'Octadecanoic acid', 'Palmitic acid', 'Lupeol', 'Phytol']"

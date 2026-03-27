@@ -1,0 +1,390 @@
+SHD,Phytochemical,Target,FDA approved drug,Disease,Indication_Type
+Butea monosperma,Beta-sitosterol,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Tecomella undulata,Beta-sitosterol,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Commiphora wightii,Beta-sitosterol,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Beta-sitosterol,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Beta-sitosterol,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Beta-sitosterol,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Beta-sitosterol,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Enicostema axillare,Apigenin,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Gallic acid,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Baicalein,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Naringenin,DPP4,Sitagliptin,Type 2 Diabetes,Diabetes
+Butea monosperma,Beta-sitosterol,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Tecomella undulata,Beta-sitosterol,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Commiphora wightii,Beta-sitosterol,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Beta-sitosterol,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Beta-sitosterol,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Beta-sitosterol,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Beta-sitosterol,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Enicostema axillare,Apigenin,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Gallic acid,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Baicalein,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Naringenin,DPP4,Vildagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Baicalein,MGAM,Miglitol,Type 2 Diabetes,Diabetes
+Enicostema axillare,Isovitexin,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Baicalein,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,(-)-Epicatechin,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Berberis aristata,Jatrorrhizine,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Ellagic acid,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Aegle marmelos,Umbelliferone,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Aegle marmelos,Imperatorin,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Pterostilbene,GAA,Miglitol,Type 2 Diabetes,Diabetes
+Aegle marmelos,Imperatorin,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Butea monosperma,Lauric acid,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Pterostilbene,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Commiphora wightii,Sesamin,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Gymnema sylvestre,Myristic acid,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Butea monosperma,Myristic acid,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Enicostema axillare,Myristic acid,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Isoliquiritigenin,GLP1R,Semaglutide,Type 2 Diabetes,Diabetes
+Aegle marmelos,Imperatorin,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Butea monosperma,Lauric acid,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Pterostilbene,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Commiphora wightii,Sesamin,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Gymnema sylvestre,Myristic acid,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Butea monosperma,Myristic acid,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Enicostema axillare,Myristic acid,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Isoliquiritigenin,GLP1R,Tirzepatide,Type 2 Diabetes,Diabetes
+Butea monosperma,Beta-sitosterol,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Tecomella undulata,Beta-sitosterol,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Commiphora wightii,Beta-sitosterol,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Beta-sitosterol,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Beta-sitosterol,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Beta-sitosterol,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Beta-sitosterol,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Enicostema axillare,Apigenin,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Gallic acid,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Baicalein,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Naringenin,DPP4,Saxagliptin,Type 2 Diabetes,Diabetes
+Butea monosperma,Beta-sitosterol,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Tecomella undulata,Beta-sitosterol,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Commiphora wightii,Beta-sitosterol,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Beta-sitosterol,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Beta-sitosterol,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Beta-sitosterol,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Beta-sitosterol,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Enicostema axillare,Apigenin,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Gallic acid,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Baicalein,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Naringenin,DPP4,Alogliptin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA12,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA12,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFAF3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFAF3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFAF1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFAF1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS8,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS8,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,COXFA4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,COXFA4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFAB1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFAB1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFC1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFC1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS7,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS7,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB8,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB8,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA7,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA7,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFC2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFC2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA10,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA10,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB10,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB10,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,MT-ND1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,MT-ND1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,MT-ND2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,MT-ND2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,MT-ND3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,MT-ND3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,MT-ND4L,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,MT-ND4L,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,MT-ND4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,MT-ND4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA11,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA11,Metformin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Ellagic acid,INSR,Metformin,Type 2 Diabetes,Diabetes
+Enicostema axillare,Apigenin,INSR,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA8,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA8,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,COXFA4L2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,COXFA4L2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFAF4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFAF4,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA13,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA13,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFA9,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFA9,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFV3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFV3,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB11,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB11,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFAF2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFAF2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFS1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFS1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,MT-ND5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,MT-ND5,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,MT-ND6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,MT-ND6,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFV2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFV2,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFV1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFV1,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB7,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB7,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,NDUFB9,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Marmin,NDUFB9,Metformin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Imperatorin,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Butea monosperma,Lauric acid,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Pterostilbene,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Commiphora wightii,Sesamin,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Gymnema sylvestre,Myristic acid,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Butea monosperma,Myristic acid,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Enicostema axillare,Myristic acid,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Isoliquiritigenin,GLP1R,Pramlintide,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Catechol,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Gymnema sylvestre,Methyl eugenol,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Commiphora wightii,E-guggulsterone,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Enicostema axillare,Octadecanoic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Octadecanoic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Gymnema sylvestre,Octadecanoic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Pseudobaptigenin,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Capric acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Behenic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Palmitic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Gymnema sylvestre,Palmitic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Linoleic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Enicostema axillare,Apigenin,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,"7,4'-dihydroxyflavone",PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Aegle marmelos,Aurapten,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Lauric acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Gymnema sylvestre,Myristic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Myristic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Enicostema axillare,Myristic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Arachidic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Commiphora wightii,Pluviatilol,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Naringenin,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Linolenic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Isoliquiritigenin,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Enicostema axillare,Oleic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Oleic acid,PPARG,Pioglitazone,Type 2 Diabetes,Diabetes
+Butea monosperma,Beta-sitosterol,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Tecomella undulata,Beta-sitosterol,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Commiphora wightii,Beta-sitosterol,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Beta-sitosterol,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Aegle marmelos,Beta-sitosterol,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Beta-sitosterol,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Beta-sitosterol,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Enicostema axillare,Apigenin,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Gallic acid,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Tectona grandis,Betulinic acid,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Diospyros malabarica,Betulinic acid,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Baicalein,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Pterocarpus marsupium,Naringenin,DPP4,Linagliptin,Type 2 Diabetes,Diabetes
+Terminalia arjuna,Catechol,SLC6A3,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A3,Diethylpropion,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A3,Diethylpropion,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A3,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A3,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A3,Diethylpropion,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A3,Diethylpropion,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A3,Diethylpropion,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A3,Diethylpropion,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A3,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A3,Diethylpropion,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A3,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A3,Diethylpropion,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A3,Diethylpropion,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A3,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A3,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A2,Diethylpropion,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A2,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A2,Diethylpropion,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A2,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A2,Diethylpropion,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A2,Diethylpropion,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A2,Diethylpropion,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A2,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A2,Diethylpropion,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A2,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A2,Diethylpropion,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A2,Diethylpropion,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A2,Diethylpropion,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A2,Diethylpropion,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A2,Diethylpropion,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A2,Diethylpropion,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A3,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A3,Phendimetrazine,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A3,Phendimetrazine,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A3,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A3,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A3,Phendimetrazine,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A3,Phendimetrazine,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A3,Phendimetrazine,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A3,Phendimetrazine,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A3,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A3,Phendimetrazine,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A3,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A3,Phendimetrazine,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A3,Phendimetrazine,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A3,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A3,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A2,Phendimetrazine,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A2,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A2,Phendimetrazine,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A2,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A2,Phendimetrazine,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A2,Phendimetrazine,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A2,Phendimetrazine,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A2,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A2,Phendimetrazine,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A2,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A2,Phendimetrazine,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A2,Phendimetrazine,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A2,Phendimetrazine,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A2,Phendimetrazine,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A2,Phendimetrazine,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A2,Phendimetrazine,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A3,Metamfetamine,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A3,Metamfetamine,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A3,Metamfetamine,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A3,Metamfetamine,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A3,Metamfetamine,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A3,Metamfetamine,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A3,Metamfetamine,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A3,Metamfetamine,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A3,Metamfetamine,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A3,Metamfetamine,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A3,Metamfetamine,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A3,Metamfetamine,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A3,Metamfetamine,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A3,Metamfetamine,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A3,Metamfetamine,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A3,Metamfetamine,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A2,Amphetamine,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A2,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A2,Amphetamine,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A2,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A2,Amphetamine,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A2,Amphetamine,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A2,Amphetamine,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A2,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A2,Amphetamine,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A2,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A2,Amphetamine,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A2,Amphetamine,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A2,Amphetamine,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A2,Amphetamine,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A2,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A2,Amphetamine,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A3,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A3,Amphetamine,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A3,Amphetamine,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A3,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A3,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A3,Amphetamine,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A3,Amphetamine,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A3,Amphetamine,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A3,Amphetamine,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A3,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A3,Amphetamine,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A3,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A3,Amphetamine,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A3,Amphetamine,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A3,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A3,Amphetamine,Obesity,Obesity
+Gymnema sylvestre,Eugenol,MC4R,Setmelanotide,Obesity,Obesity
+Aegle marmelos,Coumarins,MC4R,Setmelanotide,Obesity,Obesity
+Terminalia arjuna,Catechol,MC4R,Setmelanotide,Obesity,Obesity
+Terminalia arjuna,Mannitol,MC4R,Setmelanotide,Obesity,Obesity
+Commiphora wightii,Ferulate,MC4R,Setmelanotide,Obesity,Obesity
+Gymnema sylvestre,Ferulate,MC4R,Setmelanotide,Obesity,Obesity
+Tecomella undulata,Ferulate,MC4R,Setmelanotide,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",MC4R,Setmelanotide,Obesity,Obesity
+Pterocarpus marsupium,(-)-Epicatechin,FASN,Orlistat,Obesity,Obesity
+Enicostema axillare,Apigenin,PNLIP,Orlistat,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A2,Benzphetamine,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A2,Benzphetamine,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A2,Benzphetamine,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A2,Benzphetamine,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A2,Benzphetamine,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A2,Benzphetamine,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A2,Benzphetamine,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A2,Benzphetamine,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A2,Benzphetamine,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A2,Benzphetamine,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A2,Benzphetamine,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A2,Benzphetamine,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A2,Benzphetamine,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A2,Benzphetamine,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A2,Benzphetamine,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A2,Benzphetamine,Obesity,Obesity
+Gymnema sylvestre,Eugenol,SLC6A2,Phentermine,Obesity,Obesity
+Commiphora wightii,Ferulate,SLC6A2,Phentermine,Obesity,Obesity
+Gymnema sylvestre,Ferulate,SLC6A2,Phentermine,Obesity,Obesity
+Tecomella undulata,Ferulate,SLC6A2,Phentermine,Obesity,Obesity
+Gymnema sylvestre,"1,8-Cineole",SLC6A2,Phentermine,Obesity,Obesity
+Aegle marmelos,Coumarins,SLC6A2,Phentermine,Obesity,Obesity
+Enicostema axillare,Octadecanoic acid,SLC6A2,Phentermine,Obesity,Obesity
+Butea monosperma,Octadecanoic acid,SLC6A2,Phentermine,Obesity,Obesity
+Gymnema sylvestre,Octadecanoic acid,SLC6A2,Phentermine,Obesity,Obesity
+Terminalia arjuna,Catechol,SLC6A2,Phentermine,Obesity,Obesity
+Gymnema sylvestre,Choline,SLC6A2,Phentermine,Obesity,Obesity
+Terminalia arjuna,Mannitol,SLC6A2,Phentermine,Obesity,Obesity
+Butea monosperma,Linolenic acid,SLC6A2,Phentermine,Obesity,Obesity
+Enicostema axillare,Oleic acid,SLC6A2,Phentermine,Obesity,Obesity
+Butea monosperma,Oleic acid,SLC6A2,Phentermine,Obesity,Obesity
+Gymnema sylvestre,Inositol,SLC6A2,Phentermine,Obesity,Obesity

@@ -1,0 +1,23 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4000,LMNA,['Isoliquiritigenin']
+4846,NOS3,['(-)-Epicatechin']
+6462,SHBG,['Naringenin']
+5468,PPARG,"['Pseudobaptigenin', ""7,4'-dihydroxyflavone"", 'Naringenin', 'Isoliquiritigenin']"
+1803,DPP4,['Naringenin']
+213,ALB,['(-)-Epicatechin']
+5467,PPARD,"['Pseudobaptigenin', ""7,4'-dihydroxyflavone"", 'Naringenin']"
+5579,PRKCB,['Isoliquiritigenin']
+2548,GAA,"['(-)-Epicatechin', 'Pterostilbene']"
+10018,BCL2L11,['Isoliquiritigenin']
+6774,STAT3,['Oleanolic acid']
+5563,PRKAA2,['Oleanolic acid']
+2475,MTOR,['Isoliquiritigenin']
+4790,NFKB1,"['(-)-Epicatechin', 'Isoliquiritigenin']"
+5444,PON1,['Naringenin']
+1544,CYP1A2,['Naringenin']
+5465,PPARA,"['Pseudobaptigenin', 'Naringenin', ""7,4'-dihydroxyflavone""]"
+5770,PTPN1,"['Naringenin', 'Oleanolic acid', 'Liquiritigenin', ""7,4'-dihydroxyflavone"", 'Lupeol', 'Isoliquiritigenin']"
+2740,GLP1R,"['Pterostilbene', 'Isoliquiritigenin']"
+4843,NOS2,['Oleanolic acid']
+1956,EGFR,"['Isoliquiritigenin', 'Oleanolic acid']"
+596,BCL2,['(-)-Epicatechin']

@@ -1,0 +1,18 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4000,LMNA,"['1-Hexadecanol', '1,8-Cineole', 'Hydroquinone', 'Octadecanol']"
+150,ADRA2A,"['Inositol', 'Ferulate', 'Eugenol', 'Octadecanoic acid', 'Choline', '1,8-Cineole']"
+4160,MC4R,"['Eugenol', 'Ferulate', '1,8-Cineole']"
+5468,PPARG,"['Methyl eugenol', 'Octadecanoic acid', 'Palmitic acid', 'Myristic acid']"
+5467,PPARD,"['Hydroquinone', 'p-Guaiacol', 'Palmitic acid', 'Pentadecanoic acid', 'Tetradecanol', 'Myristic acid', 'Octadecanoic acid', 'Methyl eugenol', '1,8-Cineole']"
+3383,ICAM1,['Indole']
+2475,MTOR,['Hydroquinone']
+155,ADRB3,"['1,8-Cineole', 'Ferulate', 'Eugenol']"
+4790,NFKB1,"['Hydroquinone', 'Butyric acid', 'Octadecanoic acid']"
+1544,CYP1A2,"['Eugenol', '1,8-Cineole', 'Ferulate']"
+2167,FABP4,"['Octadecanoic acid', 'Palmitic acid']"
+5465,PPARA,"['Palmitic acid', 'Methyl eugenol', 'Myristic acid', 'Octadecanoic acid']"
+5770,PTPN1,"['Beta amyrin', 'Octadecanoic acid', 'Palmitic acid', 'Lupeol', 'Phytol']"
+3156,HMGCR,"['1,8-Cineole', 'Eugenol', 'Ferulate']"
+2740,GLP1R,['Myristic acid']
+1909,EDNRA,"['1,8-Cineole', 'Ferulate', 'Eugenol']"
+1956,EGFR,"['Ferulate', 'Eugenol', '1,8-Cineole']"

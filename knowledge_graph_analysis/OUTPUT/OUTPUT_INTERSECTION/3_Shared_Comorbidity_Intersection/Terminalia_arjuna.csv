@@ -1,0 +1,10 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4160,MC4R,"['Catechol', 'Mannitol']"
+3643,INSR,['Ellagic acid']
+5468,PPARG,['Catechol']
+155,ADRB3,"['Catechol', 'Mannitol']"
+6774,STAT3,['Oleanolic acid']
+5467,PPARD,['Catechol']
+207,AKT1,"['Baicalein', 'Ellagic acid']"
+1636,ACE,['Ellagic acid']
+5770,PTPN1,"['Oleanolic acid', 'Ellagic acid']"

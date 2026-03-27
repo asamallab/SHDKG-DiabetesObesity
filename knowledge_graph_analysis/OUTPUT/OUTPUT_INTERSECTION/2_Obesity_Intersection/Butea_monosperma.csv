@@ -1,0 +1,26 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4886,NPY1R,['Linolenic acid']
+5465,PPARA,"['Linoleic acid', 'Palmitic acid', 'Arachidic acid', 'Myristic acid', 'Behenic acid', 'Capric acid', 'Oleic acid', 'Octadecanoic acid', 'Lauric acid', 'Linolenic acid']"
+3356,HTR2A,['Linolenic acid']
+4159,MC3R,['Linolenic acid']
+43,ACHE,"['Oleic acid', 'Octadecanoic acid']"
+153,ADRB1,['Linolenic acid']
+6530,SLC6A2,"['Octadecanoic acid', 'Linolenic acid', 'Oleic acid']"
+5468,PPARG,"['Octadecanoic acid', 'Capric acid', 'Behenic acid', 'Palmitic acid', 'Linoleic acid', 'Lauric acid', 'Myristic acid', 'Arachidic acid', 'Linolenic acid', 'Oleic acid']"
+2147,F2,"['Beta-sitosterol', 'Octadecanoic acid', 'Oleic acid']"
+2740,GLP1R,"['Lauric acid', 'Myristic acid']"
+2099,ESR1,"['Palmitic acid', 'Lauric acid', 'Oleic acid', 'Linoleic acid', 'Octadecanoic acid']"
+1571,CYP2E1,"['Lauric acid', 'Oleic acid']"
+2778,GNAS,['Lauric acid']
+8856,NR1I2,['Linolenic acid']
+10411,RAPGEF3,"['Myristic acid', 'Oleic acid']"
+3358,HTR2C,['Linolenic acid']
+1545,CYP1B1,['Oleic acid']
+2908,NR3C1,"['Octadecanoic acid', 'Capric acid', 'Caprylic acid', 'Palmitic acid', 'Linolenic acid']"
+6531,SLC6A3,"['Linolenic acid', 'Oleic acid', 'Octadecanoic acid']"
+5467,PPARD,"['Linoleic acid', 'Oleic acid', 'Palmitic acid', 'Lauric acid', 'Behenic acid', 'Myristic acid', 'Octadecanoic acid', 'Arachidic acid', 'Linolenic acid', 'Capric acid']"
+5743,PTGS2,"['Linolenic acid', 'Alpha-amyrin']"
+2166,FAAH,['Oleic acid']
+154,ADRB2,['Linolenic acid']
+1268,CNR1,['Linolenic acid']
+5770,PTPN1,"['Arachidic acid', 'Alpha-amyrin', 'Octadecanoic acid', 'Oleic acid', 'Palmitic acid']"

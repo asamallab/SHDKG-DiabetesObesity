@@ -1,0 +1,20 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4000,LMNA,['Apigenin']
+150,ADRA2A,"['Oleic acid', 'Octadecanoic acid']"
+5468,PPARG,"['Octadecanoic acid', 'Apigenin', 'Myristic acid', 'Oleic acid']"
+1803,DPP4,['Apigenin']
+5467,PPARD,"['Oleic acid', 'Myristic acid', 'Octadecanoic acid', 'Apigenin']"
+207,AKT1,['Apigenin']
+5579,PRKCB,['Betulin']
+2548,GAA,['Isovitexin']
+10018,BCL2L11,['Oleic acid']
+3643,INSR,['Apigenin']
+5563,PRKAA2,['Apigenin']
+4790,NFKB1,"['Apigenin', 'Octadecanoic acid']"
+5444,PON1,['Apigenin']
+1544,CYP1A2,"['Apigenin', 'Oleic acid']"
+2167,FABP4,"['Oleic acid', 'Octadecanoic acid']"
+5465,PPARA,"['Apigenin', 'Myristic acid', 'Oleic acid', 'Octadecanoic acid']"
+5770,PTPN1,"['Apigenin', 'Octadecanoic acid', 'Oleic acid']"
+2740,GLP1R,['Myristic acid']
+1956,EGFR,['Apigenin']

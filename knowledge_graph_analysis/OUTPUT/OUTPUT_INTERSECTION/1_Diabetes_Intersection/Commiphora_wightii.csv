@@ -1,0 +1,16 @@
+Entrez_ID,Gene_Symbol,Phytochemicals
+4000,LMNA,['Cholesterol']
+150,ADRA2A,['Ferulate']
+4160,MC4R,['Ferulate']
+5468,PPARG,"['E-guggulsterone', 'Pluviatilol']"
+1803,DPP4,['Beta-sitosterol']
+5467,PPARD,"['E-guggulsterone', 'Cholesterol', 'Pluviatilol', 'Myrcene']"
+5563,PRKAA2,['Beta-sitosterol']
+155,ADRB3,['Ferulate']
+4790,NFKB1,"['Myrcene', 'E-guggulsterone']"
+1544,CYP1A2,['Ferulate']
+5465,PPARA,"['Caryophyllene', 'Pluviatilol', 'E-guggulsterone']"
+3156,HMGCR,['Ferulate']
+2740,GLP1R,['Sesamin']
+1909,EDNRA,['Ferulate']
+1956,EGFR,['Ferulate']

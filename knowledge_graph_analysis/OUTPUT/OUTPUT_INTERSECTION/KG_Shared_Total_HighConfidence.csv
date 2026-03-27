@@ -1,0 +1,8 @@
+Entrez_ID,Gene_Symbol,herb_count,herbs
+5770,PTPN1,9,"['Enicostema axillare', 'Pterocarpus marsupium', 'Terminalia arjuna', 'Tectona grandis', 'Diospyros malabarica', 'Butea monosperma', 'Berberis aristata', 'Gymnema sylvestre', 'Aegle marmelos']"
+2740,GLP1R,8,"['Aegle marmelos', 'Butea monosperma', 'Pterocarpus marsupium', 'Commiphora wightii', 'Gymnema sylvestre', 'Enicostema axillare', 'Tectona grandis', 'Diospyros malabarica']"
+5468,PPARG,7,"['Terminalia arjuna', 'Gymnema sylvestre', 'Commiphora wightii', 'Enicostema axillare', 'Butea monosperma', 'Pterocarpus marsupium', 'Aegle marmelos']"
+5467,PPARD,7,"['Gymnema sylvestre', 'Butea monosperma', 'Commiphora wightii', 'Terminalia arjuna', 'Enicostema axillare', 'Pterocarpus marsupium', 'Berberis aristata']"
+5465,PPARA,6,"['Butea monosperma', 'Gymnema sylvestre', 'Commiphora wightii', 'Pterocarpus marsupium', 'Enicostema axillare', 'Berberis aristata']"
+4160,MC4R,5,"['Gymnema sylvestre', 'Aegle marmelos', 'Terminalia arjuna', 'Commiphora wightii', 'Tecomella undulata']"
+155,ADRB3,5,"['Gymnema sylvestre', 'Commiphora wightii', 'Tecomella undulata', 'Terminalia arjuna', 'Aegle marmelos']"
