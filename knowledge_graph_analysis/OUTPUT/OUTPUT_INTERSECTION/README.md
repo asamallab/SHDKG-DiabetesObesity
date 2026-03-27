@@ -1,4 +1,4 @@
-## This folder Contains multiple subfolders and files;
+## This folder Contains multiple subfolders and files:
 
  /1_Diabetes_Intersection: Conatains all SHDs - Type 2 Diabetes Intersection <br>
 
