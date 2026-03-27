@@ -1,4 +1,4 @@
-Prerequisites
+## Prerequisites
 
 To run the knowledge graph–based analysis, a Neo4j account/instance is required in order to obtain the following connection credentials:
 
@@ -6,7 +6,7 @@ URI
 Username (ID)
 Password
 
-Neo4j can be set up using one of the following options:
+### Neo4j can be set up using one of the following options:
 
 Neo4j Community Edition (Local Installation)
  You can download and install Neo4j Community Edition for Debian/Ubuntu systems from the following link:
