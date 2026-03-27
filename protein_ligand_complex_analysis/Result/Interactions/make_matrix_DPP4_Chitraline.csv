@@ -1,0 +1,8 @@
+FinalInteractionFiles/Binding_sites.csv	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	True	True	True	True	True
+FinalInteractionFiles/out_halogen_bond_scan.txt	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	False	False	False	False	False
+FinalInteractionFiles/Hbonds_donor.csv	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	False	False	False	False	False
+FinalInteractionFiles/out_hydrophobic_C_in_protein_scan_filtered.txt	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	False	False	False	False	False
+FinalInteractionFiles/out_hydrophobic_C_in_ligand_scan_filtered.txt	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	False	True	True	True	True
+FinalInteractionFiles/aromatic_interaction_f2h_combined.txt	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	False	False	False	False	False
+FinalInteractionFiles/out_chalcogen_bond_lig_donor_scan.txt	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	False	False	False	False	False
+FinalInteractionFiles/Hbonds_acceptor.csv	Protein_ligand_complex_file/DPP4_Chitraline.pdb	False	False	True	True	True	False	False
