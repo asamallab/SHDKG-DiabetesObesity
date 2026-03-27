@@ -11,6 +11,6 @@ Priyotosh Sil#, Rahul Tiwari#, Vasavi Garisetti, Shanmuga Priya Baskaran, Fenita
 
 ## Contributors
 - Priyotosh Sil, Rahul Tiwari, and Vasavi Garisetti
------
+---
 
 <img src="SHDKG_workflow.png">
