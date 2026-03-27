@@ -9,7 +9,8 @@ Priyotosh Sil#, Rahul Tiwari#, Vasavi Garisetti, Shanmuga Priya Baskaran, Fenita
 (# Equal contribution; * Corresponding authors)
 <br>
 
-## Contributor
+## Contributors
 - Priyotosh Sil, Rahul Tiwari, and Vasavi Garisetti
+-----
 
 <img src="SHDKG_workflow.png">
