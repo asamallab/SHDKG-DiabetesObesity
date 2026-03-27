@@ -24,4 +24,5 @@ Alternatively, you can create a cloud-hosted Neo4j instance by searching for Neo
 This directory contains all scripts and datasets required to reproduce the knowledge graph–based analysis workflow.
 
 - **INPUT/** → Contains triplet files and associated metadata used to construct the knowledge graph.  
-- **OUTPUT/** → Stores results generated from downstream analyses.  
+- **OUTPUT/** → Stores results generated from downstream analyses.
+- **CODE/** → Contains scripts for the construction of the knowledge graph and subsequent analyses.
